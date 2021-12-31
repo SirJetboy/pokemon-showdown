@@ -4,7 +4,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bulbasaur",
 		types: ["Grass", "Poison"],
 		genderRatio: {M: 0.875, F: 0.125},
-		baseStats: {hp: 145, atk: 149, def: 149, spa: 165, spd: 165, spe: 145},
+		baseStats: {hp: 1, atk: 149, def: 149, spa: 165, spd: 165, spe: 145},
 		abilities: {0: "Overgrow", H: "Chlorophyll"},
 		heightm: 0.7,
 		weightkg: 6.9,
